@@ -1,4 +1,14 @@
+# @Author: Tariq
+# @Date:   2018-07-25T05:30:05+06:00
+# @Email:  pytariq@gmail.com
+# @Filename: email.py
+# @Last modified by:   Tariq
+# @Last modified time: 2018-07-26T04:37:54+06:00
+
+
+
 # -*- coding: utf-8 -*-
+
 import scrapy
 
 # from ..items import GoogleSpiderItem
