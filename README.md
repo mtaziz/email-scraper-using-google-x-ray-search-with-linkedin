@@ -1,3 +1,4 @@
+# NOTE: documentation yet to be improved
 
 # Google Spiders
 
@@ -77,8 +78,13 @@ First off all, To extract email from primarily Google search results, mentioned 
 - Before, we feed the data from spider1 to the spider_3in1, this is very important that we remove the duplicates so that we don't have to send lot of unnecessary requests to the Google server.
 
 
-#How does email spider works :
+# How does email spider works :
 
 Well, the way it works, using "Google search"  spider1 extracts the "Name" and "LinkedIn URL"
 The raw data from spider1 fed into the spider_3in1.
 spider3in1 extracts "job title", "domain", and "emails".
+
+
+
+# Caution:
+*This tool is for educational purposes only. Any damage you make will not affect the author.*
